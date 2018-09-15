@@ -1,0 +1,16 @@
+{
+  "name": "apollonuxt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nuxtjs/apollo": "^4.0.0-rc2",
+    "nuxt-edge": "^2.0.0-25615151.226b90d",
+  }
+}
