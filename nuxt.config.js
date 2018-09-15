@@ -27,6 +27,7 @@ module.exports = {
             default: {
                 httpEndpoint: 'http://localhost:3001'
             }
-        }
+        },
+        includeNodeModules: true
     }
 }
